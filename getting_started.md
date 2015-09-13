@@ -12,7 +12,7 @@ Il faut environ ** 1000 heures ** de travail pour aller de zéro à l'employabil
 
 Si vous avez la motivation, ce programme est conçu pour fournir une voie claire qui utilise le contenu existant (et surtout gratuit) pour vous rendre où vous voulez et à votre propre rythme. Tout au long de l'apprentissage vous serez en lien avec d'autres débutants du monde entier.
 
-Tout le monde a un objectif différent et c'est très bien. Que vous cherchiez à rejoindre une entreprise high tech, lancer une startup, développer votre propre site web, réapprendre  d'un autre langage, essayer un nouveau passe-temps, ou travailler comme freelance, vous trouverez de l'intérêt dans le contenu que nous avons élaboré.
+Tout le monde a un objectif différent et c'est très bien. Que vous cherchiez à rejoindre une entreprise high tech, lancer une startup, développer votre propre site web, réapprendre  à partir d'un autre langage, essayer un nouveau passe-temps, ou travailler comme freelance, vous trouverez de l'intérêt dans le contenu que nous avons élaboré.
 
 Nous savons que tout le monde ne veut pas un emploi en tant que développeur web ... certains veulent juste faire un site cool dès que possible, et nous avons essayé d'identifier les points où quelqu'un comme ça pourrait bénéficier de se déplacer dans l'arborescence sans forcément creuser certaines matières.
 
