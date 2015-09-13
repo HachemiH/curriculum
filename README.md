@@ -2,10 +2,24 @@
 
 Ce dépôt contient le programme utilisé par [Le Projet Odin](http://theodinproject.com). Il est disponible gratuitement à tous ceux qui souhaitent apprendre le développement web dans un environnement axé vers le projet et la collaboration.\*
 
+**Consultez le en ligne sur [theodinproject.com/curriculum](http://theodinproject.com/curriculum).**
 
+Les apprenants, les enseignants, et les développeurs sont encouragés à contribuer au programme. Le processus a été grandement simplifié ce qui devrait être assez simple - il suffit de "forker" ce dépôt, effectuez vos modifications (par exemple en ajoutant le lien vers votre solution pour un des exercices), puis de soumettre une "pull request". Les leçons présentées sur [theodinproject.com/curriculum](http://theodinproject.com/curriculum) sont toutes disponible ici dans leur dossiers respectifs.
 
+*Pour plus d'informations à propos de la contribution à ce programme, voir [contributing.md](/contributing.md)*
 
+*Pour plus d'informations sur le Projet Odin, aller à [theodinproject.com](http://theodinproject.com).*
 
+*Pour plus d'informations à propos de la contribution au projet Odin, aller à [theodinproject.com/contributing](http://www.theodinproject.com/contributing)*
+
+*Pour le code source du site principal du Projet Odin, consultez le [repo github ici](http://github.com/theodinproject/theodinproject).*
+
+**Happy Coding!**
+
+\* Voir [license.md](https://github.com/TheOdinProject/curriculum/blob/master/license.md) pour les conditions d'utilisation.
+
+<hr>
+Créé par [Erik Trautman](http://www.github.com/eriktrautman)
 
 
 
