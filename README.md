@@ -1,3 +1,14 @@
+# Le Programme du Projet Odin: [Apprenez le développement Web gratuitement ](http://theodinproject.com)
+
+Ce dépôt contient le programme utilisé par [Le Projet Odin](http://theodinproject.com). Il est disponible gratuitement à tous ceux qui souhaitent apprendre le développement web dans un environnement axé vers le projet et la collaboration.\*
+
+
+
+
+
+
+
+
 # The Odin Project Curriculum: [Learn Web Development for Free](http://theodinproject.com)
 
 This repository houses the curriculum used by [The Odin Project](http://theodinproject.com).  It is available for free to anyone who would like to learn web development in a project-focused and collaborative environment.\*  
