@@ -1,3 +1,24 @@
+
+# Avant de Commencer
+
+## À propos du Projet Odin
+
+*Le projet Odin soutient les étudiants de tous âges et tous horizons qui aspirent à devenir des développeurs web en fournissant un programme ouvert axé sur l'apprentissage collaboratif et par projet pour vous mettre sur la voie de l'acquisition d'un niveau de compétences aptes à l'emploi. *
+
+*Pour maintenir le programme en adéquation avec vos besoins, nous encourageons vivement la participation et la contribution des étudiants et des développeurs professionnels qui vont un jour chercher à les embaucher. *
+
+
+Il faut environ ** 1000 heures ** de travail pour aller de zéro à l'employabilité en tant que développeur web et c'est souvent un voyage confus et rude. Lorsque vous demandez d'abord comment commencer, vous avez généralement une douzaine de ressources vagues à regarder et un petit coup de pouce vers l'avant. Ou vous vous retrouvez à regarder la possibilité de contracter une énorme dette étudiante pour une grande école qui n'est aucunement une garantie d'emploi de toute façon.
+
+Si vous avez la motivation, ce programme est conçu pour fournir une voie claire qui utilise le contenu existant (et surtout gratuit) pour vous rendre où vous voulez et à votre propre rythme. Tout au long de l'apprentissage vous serez en lien avec d'autres débutants du monde entier.
+
+Tout le monde a un objectif différent et c'est très bien. Que vous cherchiez à rejoindre une entreprise high tech, lancer une startup, développer votre propre site web, réapprendre  d'un autre langage, essayer un nouveau passe-temps, ou travailler comme freelance, vous trouverez de l'intérêt dans le contenu que nous avons élaboré.
+
+Nous savons que tout le monde ne veut pas un emploi en tant que développeur web ... certains veulent juste faire un site cool dès que possible, et nous avons essayé d'identifier les points où quelqu'un comme ça pourrait bénéficier de se déplacer dans l'arborescence sans forcément creuser certaines matières.
+
+Consultez notre [groupe meetup](http://www.meetup.com/Learn-Web-Development-Paired-Programming-in-SF) si vous souhaitez suivre le développement du Projet Odin et participer à nos rencontres Meetup. Consultez notre site Web à [theodinproject.com](http://www.theodinproject.com) pour vous connecter à d'autres personnes à travers le monde!
+
+
 # Getting Started
 
 ## About The Odin Project
